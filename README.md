@@ -1,3 +1,3 @@
 # ejercicios_java
 
-Ejercicios de DAM en el caminas.
+Ejercicios del primer año de Dam.
