@@ -82,7 +82,7 @@ public class repartiendoRegalos {
             }
 
             //System.out.println(cercano);
-            System.out.print(portalCercano+" ");
+            System.out.print(portalCercano+", ");
             i = portalCercano;
             //System.out.println("-------");
 
