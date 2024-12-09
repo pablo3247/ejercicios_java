@@ -9,7 +9,7 @@ public class repartiendoRegalos {
         ArrayList<Integer> pasados = new ArrayList<>();
 
         //Pedir el portal en que aterriza!
-        System.out.println("En que portal aterriza?!");
+        System.out.println("En que portal aterriza?! 🎅");
         int inicio = sc.nextInt();
 
         //Pedir los portales que visita!
@@ -82,7 +82,7 @@ public class repartiendoRegalos {
             }
 
             //System.out.println(cercano);
-            System.out.print(portalCercano+", ");
+            System.out.print(portalCercano+"\uD83C\uDF81, ");
             i = portalCercano;
             //System.out.println("-------");
 
@@ -91,6 +91,7 @@ public class repartiendoRegalos {
         }
 
         //System.out.println(pasados);
+
 
 
 
