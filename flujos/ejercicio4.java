@@ -1,3 +1,5 @@
+package flujos;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -18,7 +20,7 @@ public class ejercicio4 {
 
         numeros.stream()
         .filter(value -> value > 0 && value <=5)
-        .forEach(value -> System.out.println(value));
+        .forEach(System.out::println);
 
     }
 }
